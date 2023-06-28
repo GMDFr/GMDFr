@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @GMDFr
 
-👓 Short Description :
+👓 # Short Description :
 - 👀 I’m interested in data analysis, data science and robotics.
 - 🌱 I’m currently learning pygame with the idea to add neural network for control.
 - 💞️ I’m looking to collaborate on a RPG 2D (pygame).
 
-🗃️ Full Description : 
+🗃️ # Full Description : 
 
 📊 Traveler of Data Analysis
 
